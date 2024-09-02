@@ -1,11 +1,11 @@
-### Find the solutions of these following questions:
-### By using JavaScript and HTML and CSS.
+# Find the solutions of these following questions:
+## By using JavaScript and HTML and CSS.
 
-1. When user click on the update button,  Change the given paragaraph text ! 
+**. When user click on the update button,  Change the given paragaraph text ! 
     text comes from the input field.
 
 
-2. Create comment box?
+*. Create comment box?
     - Have an post button 
     - Have a textarea field
     - Have a comments container area
